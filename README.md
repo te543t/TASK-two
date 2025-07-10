@@ -50,7 +50,7 @@ performs prediction, and displays the predicted class along with the confidence 
 1. Upload the following files to your Google Colab session:  
    - `keras_model (1).h5`  
    - `labels.txt`  
-   - `test.jpg` (or any image you want to classify)
+   - `test.jpg` 
 
 2. Run the provided Python script to perform classification.
 
